@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment and secrets
+.env
+*.token
+
+# SQLite database and local uploads
+data/
+*.sqlite
+*.sqlite3
+*.db
+uploads/
+resumes/
+
+# Testing & logs
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
