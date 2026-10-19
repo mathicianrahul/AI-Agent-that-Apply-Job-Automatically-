@@ -1,8 +1,10 @@
 # 🚀 JobPilot AI — Personal AI Job Application Agent
 
+> 📖 **Looking for the step-by-step installation instructions? Read the [Complete Setup & Quickstart Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)!**
+
 JobPilot AI is a production-minded, modular Agentic AI system that automates job discovery, intelligent multi-factor matching, personalized application drafting, and recruitment pipeline tracking.
 
-Built specifically for **Rahul Girase** (Final-year BE in Artificial Intelligence and Machine Learning, 2027 graduate, Fresher / Entry-Level), the application enforces a strict **Human-in-the-Loop** model: no job application is ever submitted without explicit candidate verification and approval.
+Built for candidates seeking entry-level and campus opportunities, the application enforces a strict **Human-in-the-Loop** model: no job application is ever submitted without explicit candidate verification and approval.
 
 ---
 
